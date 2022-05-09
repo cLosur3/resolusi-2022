@@ -4,3 +4,5 @@ RESOLUSI 2022
   c. Belajar Python
   d. Belajar C
   e. Belajar Competitive Programming
+  f. Belajar OOP
+  g. Belajar Web Development
