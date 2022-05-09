@@ -1,0 +1,6 @@
+RESOLUSI 2022
+  a. Menyelesaikan sisa materi kuliah semester 3 dan 4
+  b. Belajar Capture The Flag
+  c. Belajar Python
+  d. Belajar C
+  e. Belajar Competitive Programming
