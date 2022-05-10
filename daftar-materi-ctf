@@ -1,5 +1,9 @@
 DAFTAR MATERI CTF
   a. Forensic
+     - stegsolve
+     - stegsnow
+     - steghide
+     - foremost
   b. Cryptography
   c. Reverse Engineering
   d. Binary Exploitation (pwn)
