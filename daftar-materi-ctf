@@ -5,9 +5,16 @@ DAFTAR MATERI CTF
      - steghide
      - foremost
   b. Cryptography
+     - Caesar Cipher
+     - DES
+     - AES
+     - RSA
   c. Reverse Engineering
   d. Binary Exploitation (pwn)
   e. Web Exploitation
   f. OSINT
   g. Programming
+     - Python
+     - C++
+     - C
   h. Misc
