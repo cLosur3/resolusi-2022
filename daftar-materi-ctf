@@ -6,13 +6,15 @@ DAFTAR MATERI CTF
      - foremost
   b. Cryptography
      - Caesar Cipher
-     - RSA
-     - AES
      - DES
+     - AES
+     - RSA
   c. Reverse Engineering
   d. Binary Exploitation (pwn)
   e. Web Exploitation
   f. OSINT
   g. Programming
      - Python
+     - C++
+     - C
   h. Misc
