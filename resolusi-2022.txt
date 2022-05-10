@@ -3,3 +3,4 @@ RESOLUSI 2022
   b. Belajar Capture The Flag lebih lanjut
   e. Belajar Competitive Programming lebih lanjut
   d. Menyukseskan CPSC 2022
+  f. Belajar GitHub
